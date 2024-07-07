@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+.merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+    margin: 0 auto;
+  }
+  
+.header{
+    border: none;
+    border-radius: 15px;
+    background-image: url("../images/Banner\ Image.png");
+    background-repeat: no-repeat;
+    /* background: linear-gradient(0deg, rgb(25, 7, 61),rgba(41, 15, 95, 0) 100%); */
+    width: 1300px;
+    height: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+.sec-1{
+    text-align: center;
+    color: white;
+    padding: 120px 400px 0 400px ;
+    font-size: 32px;
+font-weight: 400;
+}
+/* 222 */
+.sec-2{
+    text-align: center;
+    margin-top: 100px;
+}
+.off{
+    font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+color: red;
+}
+.our{
+    font-size: 24px;
+font-weight: 500;
+color: red;
+}
+.all{font-size: 48px;
+    font-weight: 700;
+   color: rgb(5, 0, 15);
+}
+/* 333 */
+.midnight-content{
+    width: 1300px;
+    height: 600px;
+    display: flex;
+    border-radius: 15px;
+    background-image: url("../images/Vectorrr.png");
+    margin: 20px auto;
+}
+.leftsi{
+width: 50%;
+}
+
+.Welcome{
+    width: 400px;
+    padding: 120px 100px 0px 50px;
+    font-size: 64px;
+font-weight: 900;
+color: white;
+
+}
+.dolor {
+    font-size: 18px;
+font-weight: 400;
+padding: 0px 200px 200px 126px ;
+color: rgba(255, 255, 255, 0.493);
+}
+.rightside{
+    width: 50%;
+}
+.G-70{
+    padding: 67px 1px 20px 30px
+}
+.New-park{
+    width: 520px;
+    height: 280px;
+    border-radius: 16px;
+    text-align: center;
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0.048) 100%);
+padding: 100px 380px;
+margin: 0 auto;
+}
+.details{
+    color: red;
+}
+.name{
+    font-weight: 600;
+    font-size: 30px;
+}
+.btn{
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    padding: 16px 32px;
+}
