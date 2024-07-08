@@ -99,4 +99,157 @@ margin: 0 auto;
     color: white;
     border-radius: 8px;
     padding: 16px 32px;
+    border: none;
+}
+/* 444 */
+.sec-3{
+    width: 1300px;
+    min-height: 400px;
+    margin: 20px auto ;
+    display: flex;
+}
+.left-content{
+    margin-top: 200px;
+}
+.coming{
+    font-size: 48px;
+    font-weight: 900;
+}
+.dolor-sit{
+    width: 300px;
+height: 128px;
+font-size: 20px;
+font-weight: 400;
+color: rgba(7, 2, 17, 0.384);
+}
+.middle-content{
+    width: 364.84px;
+height: 364.84px;
+background: url("friends-enjoying-rooftop-party");
+padding: 100px 100px;
+}
+.two{
+    font-size: 48px;
+font-weight: 700;
+padding-top: 2px; padding-bottom: 2px;
+}
+.g-96{
+    padding-top: 0px;
+
+}
+.sec-4{
+    text-align: center;
+    margin-top: 50px;
+}
+.HOLIDAY{
+    font-size: 72px;
+    font-weight: 900;
+}
+.hotel{
+    font-weight: 600;
+    font-size: 20px;
+    width: 1000px;
+    color: rgba(7, 2, 17, 0.151);
+    /* padding: 0px 800px; */
+    margin: 0 auto;
+}
+.sec-5{
+    background-image: url("../images/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    /* display: flex; */
+    margin: 0 auto;
+}
+.g-75{
+    width: 700.82px;
+height: 577.96px;
+padding: 10px 100px ; 
+}
+.g-44{
+    width: 305.69px;
+height: 305.69px;
+padding: 10px 10px 200px 5px; 
+}
+.sec-44{
+    text-align: center;
+    align-items: center;
+}
+.sec-55{
+    display: flex;
+}
+.sec-6{
+    margin: 50px auto;
+    border: 500px;
+    /* display: block; */
+    width: 1300px;
+height: 1160px;
+
+}
+.d-s{
+    width: 896px;
+height: 64px;
+color: rgba(7, 2, 17, 0.205);
+}
+.sec-7{
+    background-color: rgba(255, 0, 0, 0.062);
+    border-radius: 15px;
+    width: 1320px;
+height: 616px;
+margin: 0 auto;
+text-align: center;
+}
+.sub{
+    font-weight: 900;
+    font-size: 48px;
+}
+.g-61{
+    padding-top: 80px;
+}
+.ds-1{
+    font-weight: 400;
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.24);
+    height: 60px;
+    padding: 0 200px;
+}
+#mail{
+    border-radius: 30px;
+    border: none;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 10px 25px;
+    
+}
+.footer{
+    background-color: black;
+    width: 1500px;
+    height: 600px;
+    margin: 20px auto;
+}
+.contact{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    color: rgba(255, 255, 255, 0.801); 
+}
+.last{
+    color: white;
+    display: flex;
+    /* justify-content: space-between; */
+}
+.big{
+    font-weight: 500;
+    font-size: 24px;
+    width: 375px;
+height: 80px;
+color: rgba(255, 255, 255, 0.801);
+}
+.web{
+    width: 251px;
+height: 80px;
+color: white;
+
+}
+.logo{
+    text-align: center;
 }
